@@ -9,6 +9,10 @@ Segmenting customers into homogeneous groups can aid in the discovery of fraudul
 
 
 R (Recency): Number of days since last purchase
+
+
 F (Frequency): Number of tracsactions
+
+
 M (Monetary): Total amount of transactions (revenue contributed)
 
